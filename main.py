@@ -107,7 +107,7 @@ def get_killed(night):
         return f'Горожане выгнали: {username_killed}'
     username_killed = db.mafia_kill()
     return f'Мафия убила: {username_killed}'
-
+#хахахахахаха
 
 
 bot.polling()
